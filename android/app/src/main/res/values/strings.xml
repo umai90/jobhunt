@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JobHunt</string>
+    <string name="title_activity_main">JobHunt</string>
+    <string name="package_name">com.bula.cyberhunt</string>
+    <string name="custom_url_scheme">com.bula.cyberhunt</string>
+</resources>

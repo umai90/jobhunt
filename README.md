@@ -220,15 +220,7 @@ graph TB
 
 ---
 
-## Screenshots
 
-> Place screenshots in `docs/screenshots/` and update paths below.
-
-| Search | Filters | Job Card | Monitor |
-|--------|---------|----------|---------|
-| `docs/screenshots/search.png` | `docs/screenshots/filters.png` | `docs/screenshots/card.png` | `docs/screenshots/monitor.png` |
-
----
 
 ## Quick Start
 
